@@ -1,0 +1,14 @@
+{
+    "env": {
+        "browser": true
+    },
+    "globals": {
+        "process": true
+    },
+    "parserOptions": {
+        "sourceType": "module",
+        "ecmaFeatures": {
+            "experimentalObjectRestSpread": true
+        }
+    }
+}
