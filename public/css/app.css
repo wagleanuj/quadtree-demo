@@ -15,8 +15,8 @@ body {
 
 #app {
     display: block;
-    width: 500px;
-    height: 500px;
+    width: 800px;
+    height: 800px;
     overflow: hidden;
     background: #FFFFFF;
 }
